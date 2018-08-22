@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "bot.telegram.username",
+    "type": "java.lang.String",
+    "description": "Telegram Bot Username"
+  },
+  {
+    "name": "bot.telegram.token",
+    "type": "java.lang.String",
+    "description": "Telegram Bot Token'"
+  },
+  {
+    "name": "bot.telegram.userId",
+    "type": "java.lang.String",
+    "description": "UserId authorized"
+  }
+]}
