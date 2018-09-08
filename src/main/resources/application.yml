@@ -1,0 +1,11 @@
+logging:
+  level:
+    es.parravidales: DEBUG
+    org.springframework: WARN
+bot:
+  telegram:
+    username: <USERNAME>
+    token: <TOKEN>
+    userId: <USER_ID>
+  torrent:
+    path: /tmp/
