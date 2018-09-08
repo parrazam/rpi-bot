@@ -7,3 +7,5 @@ bot:
     username: <USERNAME>
     token: <TOKEN>
     userId: <USER_ID>
+  torrent:
+    path: /tmp/
